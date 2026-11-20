@@ -1,0 +1,50 @@
+{
+  "id": "s25ultra",
+  "name": "Samsung Galaxy S25 Ultra",
+  "brand": "Samsung",
+  "category": "dien-thoai",
+  "price": 27990000,
+  "oldPrice": 32990000,
+  "image": "images/s25ultra.webp",
+  "description": [
+    "Galaxy S25 Ultra thuộc dòng Galaxy S cao cấp của Samsung, nổi bật với khung titan và bút S Pen tiện lợi cho việc ghi chú, phác thảo.",
+    "Hệ thống camera đa tiêu cự giúp chụp linh hoạt từ góc rộng đến zoom xa, cùng khả năng kháng nước và bụi chuẩn IP68 cho sự yên tâm khi sử dụng hằng ngày."
+  ],
+  "features": [
+    "Dòng Galaxy S cao cấp",
+    "Khung titan và S Pen",
+    "Hệ thống camera đa tiêu cự",
+    "Kháng nước và bụi IP68"
+  ],
+  "specs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Samsung"
+    },
+    {
+      "label": "Dòng máy",
+      "value": "Galaxy S cao cấp"
+    },
+    {
+      "label": "Chất liệu khung",
+      "value": "Titan"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "S Pen"
+    },
+    {
+      "label": "Kháng nước, bụi",
+      "value": "IP68"
+    }
+  ],
+  "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+  ],
+  "source": {
+    "name": "Samsung Việt Nam",
+    "url": "https://www.samsung.com/vn/smartphones/galaxy-s25-ultra/"
+  }
+}

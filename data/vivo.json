@@ -1,0 +1,46 @@
+{
+  "id": "vivo",
+  "name": "Vivo V50",
+  "brand": "Vivo",
+  "category": "dien-thoai",
+  "price": 12990000,
+  "oldPrice": 14490000,
+  "image": "images/vivo.png",
+  "description": [
+    "Vivo V50 hướng đến người thích chụp ảnh chân dung với camera hợp tác cùng ZEISS, đi kèm màn hình AMOLED 6,77 inch hiển thị rực rỡ.",
+    "Viên pin 6000mAh cùng sạc nhanh 90W giúp bạn dùng cả ngày dài và nạp đầy năng lượng nhanh chóng."
+  ],
+  "features": [
+    "Màn hình AMOLED 6,77 inch",
+    "Pin 6000mAh",
+    "Sạc 90W",
+    "Camera chân dung ZEISS"
+  ],
+  "specs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Vivo"
+    },
+    {
+      "label": "Màn hình",
+      "value": "AMOLED 6,77 inch"
+    },
+    {
+      "label": "Pin",
+      "value": "6000mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "90W"
+    },
+    {
+      "label": "Camera",
+      "value": "Chân dung ZEISS"
+    }
+  ],
+  "storage": [],
+  "source": {
+    "name": "vivo Official",
+    "url": "https://www.vivo.com/en/products/picture/v50"
+  }
+}

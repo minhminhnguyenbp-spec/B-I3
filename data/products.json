@@ -1,0 +1,90 @@
+[
+  {
+    "id": "iphone16pro",
+    "name": "iPhone 16 Pro Max",
+    "brand": "Apple",
+    "category": "dien-thoai",
+    "tag": "HOT",
+    "price": 29990000,
+    "oldPrice": 32990000,
+    "image": "images/ip16promax.webp",
+    "short": "Màn hình OLED 6,9 inch, thiết kế titan, hỗ trợ 5G."
+  },
+  {
+    "id": "s25ultra",
+    "name": "Samsung Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "category": "dien-thoai",
+    "tag": "",
+    "price": 27990000,
+    "oldPrice": 32990000,
+    "image": "images/s25ultra.webp",
+    "short": "Khung titan, bút S Pen, camera đa tiêu cự, kháng nước IP68."
+  },
+  {
+    "id": "xiaomi15",
+    "name": "Xiaomi 15",
+    "brand": "Xiaomi",
+    "category": "dien-thoai",
+    "tag": "HOT",
+    "price": 18990000,
+    "oldPrice": 20990000,
+    "image": "images/xiaomi15.jpg",
+    "short": "Snapdragon 8 Elite, RAM 12GB, bộ nhớ 512GB, thiết kế nhỏ gọn."
+  },
+  {
+    "id": "oppo",
+    "name": "OPPO Find X8 Pro",
+    "brand": "OPPO",
+    "category": "dien-thoai",
+    "tag": "SALE",
+    "price": 19990000,
+    "oldPrice": 22990000,
+    "image": "images/OPPO-Find-X8-Pro--997x1024.jpg",
+    "short": "AMOLED 6,78 inch, Dimensity 9400, camera 50MP, sạc nhanh có dây và không dây."
+  },
+  {
+    "id": "vivo",
+    "name": "Vivo V50",
+    "brand": "Vivo",
+    "category": "dien-thoai",
+    "tag": "MỚI",
+    "price": 12990000,
+    "oldPrice": 14490000,
+    "image": "images/vivo.png",
+    "short": "AMOLED 6,77 inch, pin 6000mAh, sạc 90W, camera chân dung ZEISS."
+  },
+  {
+    "id": "realme",
+    "name": "Realme 14 Pro 5G",
+    "brand": "Realme",
+    "category": "dien-thoai",
+    "tag": "5G",
+    "price": 11990000,
+    "oldPrice": 13490000,
+    "image": "images/realme.png",
+    "short": "Thiết kế ngọc trai đặc trưng, hỗ trợ 5G, kháng bụi và nước cao."
+  },
+  {
+    "id": "honor",
+    "name": "HONOR 400",
+    "brand": "HONOR",
+    "category": "dien-thoai",
+    "tag": "AI",
+    "price": 10990000,
+    "oldPrice": 12490000,
+    "image": "images/honer.png",
+    "short": "Camera chính AI 200MP, pin 6000mAh, sạc nhanh 80W."
+  },
+  {
+    "id": "iphone16",
+    "name": "iPhone 16",
+    "brand": "Apple",
+    "category": "dien-thoai",
+    "tag": "HOT",
+    "price": 22990000,
+    "oldPrice": 24990000,
+    "image": "images/ip16.png",
+    "short": "Thiết kế thế hệ mới, camera kép, kết nối 5G, nhiều màu sắc."
+  }
+]

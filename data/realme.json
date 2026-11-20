@@ -1,0 +1,42 @@
+{
+  "id": "realme",
+  "name": "Realme 14 Pro 5G",
+  "brand": "Realme",
+  "category": "dien-thoai",
+  "price": 11990000,
+  "oldPrice": 13490000,
+  "image": "images/realme.png",
+  "description": [
+    "Realme 14 Pro 5G gây ấn tượng với thiết kế ngọc trai đặc trưng, phong cách trẻ trung và dễ nhận diện.",
+    "Máy hỗ trợ kết nối 5G và có khả năng kháng bụi, kháng nước cao, là lựa chọn đáng cân nhắc trong tầm giá cho người dùng trẻ."
+  ],
+  "features": [
+    "Thiết kế ngọc trai đặc trưng",
+    "Hỗ trợ 5G",
+    "Khả năng kháng bụi và nước cao",
+    "Phong cách thiết kế trẻ trung"
+  ],
+  "specs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Realme"
+    },
+    {
+      "label": "Thiết kế",
+      "value": "Ngọc trai đặc trưng"
+    },
+    {
+      "label": "Kết nối",
+      "value": "5G"
+    },
+    {
+      "label": "Độ bền",
+      "value": "Kháng bụi và nước cao"
+    }
+  ],
+  "storage": [],
+  "source": {
+    "name": "realme Official",
+    "url": "https://www.realme.com/global/realme-14-pro-5g/specs"
+  }
+}

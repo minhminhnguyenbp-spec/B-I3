@@ -1,0 +1,46 @@
+{
+  "id": "oppo",
+  "name": "OPPO Find X8 Pro",
+  "brand": "OPPO",
+  "category": "dien-thoai",
+  "price": 19990000,
+  "oldPrice": 22990000,
+  "image": "images/OPPO-Find-X8-Pro--997x1024.jpg",
+  "description": [
+    "OPPO Find X8 Pro có màn hình AMOLED 6,78 inch sắc nét, vận hành bởi chip Dimensity 9400 cho hiệu năng cao trong cả công việc lẫn chơi game.",
+    "Cụm camera sau nhiều ống kính 50MP phục vụ đa dạng nhu cầu chụp ảnh, cùng hỗ trợ sạc nhanh có dây và không dây giúp tiết kiệm thời gian nạp pin."
+  ],
+  "features": [
+    "Màn hình AMOLED 6,78 inch",
+    "Camera sau nhiều ống kính 50MP",
+    "Dimensity 9400",
+    "Sạc nhanh có dây và không dây"
+  ],
+  "specs": [
+    {
+      "label": "Thương hiệu",
+      "value": "OPPO"
+    },
+    {
+      "label": "Màn hình",
+      "value": "AMOLED 6,78 inch"
+    },
+    {
+      "label": "Chip xử lý",
+      "value": "Dimensity 9400"
+    },
+    {
+      "label": "Camera sau",
+      "value": "Nhiều ống kính 50MP"
+    },
+    {
+      "label": "Sạc",
+      "value": "Nhanh, có dây và không dây"
+    }
+  ],
+  "storage": [],
+  "source": {
+    "name": "OPPO Việt Nam",
+    "url": "https://www.oppo.com/vn/smartphones/series-find-x/find-x8-pro/specs/"
+  }
+}

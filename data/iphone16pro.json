@@ -1,0 +1,50 @@
+{
+  "id": "iphone16pro",
+  "name": "iPhone 16 Pro Max",
+  "brand": "Apple",
+  "category": "dien-thoai",
+  "price": 29990000,
+  "oldPrice": 32990000,
+  "image": "images/ip16promax.webp",
+  "description": [
+    "iPhone 16 Pro Max là mẫu iPhone cao cấp với màn hình OLED lớn 6,9 inch và khung titan bền, nhẹ, mang lại cảm giác cầm nắm sang trọng.",
+    "Máy hỗ trợ kết nối 5G, hệ thống camera cao cấp cho cả chụp ảnh lẫn quay video, và có dung lượng từ 256GB đủ rộng để lưu ảnh, video và ứng dụng. Phù hợp với người dùng cần một chiếc điện thoại mạnh, màn hình lớn để làm việc và giải trí."
+  ],
+  "features": [
+    "Màn hình OLED 6,9 inch",
+    "Thiết kế titan",
+    "Bộ nhớ từ 256GB",
+    "Hỗ trợ 5G và camera cao cấp"
+  ],
+  "specs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Apple"
+    },
+    {
+      "label": "Màn hình",
+      "value": "OLED 6,9 inch"
+    },
+    {
+      "label": "Chất liệu khung",
+      "value": "Titan"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "Từ 256GB"
+    },
+    {
+      "label": "Kết nối",
+      "value": "5G"
+    }
+  ],
+  "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+  ],
+  "source": {
+    "name": "Apple Support",
+    "url": "https://support.apple.com/vi-vn/121032"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "honor",
+  "name": "HONOR 400",
+  "brand": "HONOR",
+  "category": "dien-thoai",
+  "price": 10990000,
+  "oldPrice": 12490000,
+  "image": "images/honer.png",
+  "description": [
+    "HONOR 400 nổi bật với camera chính 200MP tích hợp các tính năng AI hỗ trợ chụp ảnh sắc nét, giàu chi tiết.",
+    "Pin 6000mAh kết hợp sạc nhanh 80W và chip Snapdragon 7 Gen 3 cho trải nghiệm bền bỉ, mượt mà ở mức giá dễ tiếp cận."
+  ],
+  "features": [
+    "Camera chính AI 200MP",
+    "Pin 6000mAh",
+    "Sạc nhanh 80W",
+    "Snapdragon 7 Gen 3"
+  ],
+  "specs": [
+    {
+      "label": "Thương hiệu",
+      "value": "HONOR"
+    },
+    {
+      "label": "Camera chính",
+      "value": "AI 200MP"
+    },
+    {
+      "label": "Pin",
+      "value": "6000mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "80W"
+    },
+    {
+      "label": "Chip xử lý",
+      "value": "Snapdragon 7 Gen 3"
+    }
+  ],
+  "storage": [],
+  "source": {
+    "name": "HONOR Việt Nam",
+    "url": "https://www.honor.com/vn/phones/honor-400/"
+  }
+}

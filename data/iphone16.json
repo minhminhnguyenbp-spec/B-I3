@@ -1,0 +1,42 @@
+{
+  "id": "iphone16",
+  "name": "iPhone 16",
+  "brand": "Apple",
+  "category": "dien-thoai",
+  "price": 22990000,
+  "oldPrice": 24990000,
+  "image": "images/ip16.png",
+  "description": [
+    "iPhone 16 mang đến thiết kế thế hệ mới với nhiều tùy chọn màu sắc để bạn chọn theo phong cách riêng.",
+    "Hệ thống camera kép cho ảnh đẹp trong nhiều điều kiện, cùng kết nối 5G ổn định cho trải nghiệm trực tuyến nhanh."
+  ],
+  "features": [
+    "Thiết kế iPhone thế hệ mới",
+    "Camera kép",
+    "Kết nối 5G",
+    "Nhiều tùy chọn màu sắc"
+  ],
+  "specs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Apple"
+    },
+    {
+      "label": "Camera",
+      "value": "Camera kép"
+    },
+    {
+      "label": "Kết nối",
+      "value": "5G"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Nhiều tùy chọn"
+    }
+  ],
+  "storage": [],
+  "source": {
+    "name": "Apple Support",
+    "url": "https://support.apple.com/vi-vn/121029"
+  }
+}

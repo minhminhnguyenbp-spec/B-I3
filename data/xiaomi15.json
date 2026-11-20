@@ -1,0 +1,46 @@
+{
+  "id": "xiaomi15",
+  "name": "Xiaomi 15",
+  "brand": "Xiaomi",
+  "category": "dien-thoai",
+  "price": 18990000,
+  "oldPrice": 20990000,
+  "image": "images/xiaomi15.jpg",
+  "description": [
+    "Xiaomi 15 sở hữu thiết kế nhỏ gọn với màn hình 6,36 inch, dễ cầm một tay nhưng vẫn trang bị chip Snapdragon 8 Elite mạnh mẽ.",
+    "Phiên bản RAM 12GB và bộ nhớ 512GB cho khả năng đa nhiệm mượt mà và nhiều không gian lưu trữ, kèm cụm camera cao cấp cho ảnh chụp chi tiết."
+  ],
+  "features": [
+    "Màn hình 6,36 inch",
+    "Snapdragon 8 Elite",
+    "RAM 12GB + bộ nhớ 512GB",
+    "Camera cao cấp và thiết kế nhỏ gọn"
+  ],
+  "specs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Xiaomi"
+    },
+    {
+      "label": "Màn hình",
+      "value": "6,36 inch"
+    },
+    {
+      "label": "Chip xử lý",
+      "value": "Snapdragon 8 Elite"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "512GB"
+    }
+  ],
+  "storage": [],
+  "source": {
+    "name": "Xiaomi Việt Nam",
+    "url": "https://www.mi.com/vn/product/xiaomi-15/specs/"
+  }
+}
